@@ -1,0 +1,15 @@
+# 构建产物
+build/
+compile_commands.json
+
+# 程序运行输出
+traj_vo.txt
+*.png
+
+# IDE / 编辑器
+.vscode/
+.idea/
+.cache/
+
+# 系统文件
+.DS_Store
