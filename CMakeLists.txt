@@ -20,6 +20,7 @@ add_library(vo STATIC
     src/camera.cpp
     src/feature.cpp
     src/frame.cpp
+    src/imu.cpp
     src/map.cpp
     src/odometry.cpp
     src/optimize.cpp

@@ -12,3 +12,6 @@ target_link_libraries(test_vo vo)
 
 add_executable(test_optimize test_optimize.cpp)
 target_link_libraries(test_optimize vo)
+
+add_executable(test_imu test_imu.cpp)
+target_link_libraries(test_imu vo)
